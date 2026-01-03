@@ -1,0 +1,17 @@
+L'objectif de ce cours est d'initier les étudiants à la gestion des données et au travail du Data Manager dans le cadre d'une étude clinique.
+
+## Contenu du cours {.unnumbered}
+
+-   Lire un projet d'étude clinique et comprendre son contexte (la pathologie, les molécules étudiées et leur mécanisme d'action, ainsi que la configuration de l'étude) et son design
+
+-   Lister les données qui devront être collectées pour répondre à la question de l'étude
+
+-   Créer le Dictionnaire des Données associé
+
+-   Définir les tests de cohérence
+
+-   Créer un e-CRF (simplifié) et saisir des données
+
+-   Utiliser R pour manipuler et vérifier la qualité des données
+
+-   Selon le temps disponible : visualisation de données avec R et génération de rapports automatisés avec Quarto
