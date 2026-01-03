@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction à la gestion des données",
+    "section": "",
+    "text": "Contenu du cours\nL’objectif de ce cours est d’initier les étudiants à la gestion des données et au travail du Data Manager dans le cadre d’une étude clinique.",
+    "crumbs": [
+      "Contenu du cours"
+    ]
+  },
+  {
+    "objectID": "index.html#contenu-du-cours",
+    "href": "index.html#contenu-du-cours",
+    "title": "Introduction à la gestion des données",
+    "section": "",
+    "text": "Lire un projet d’étude clinique et comprendre son contexte (la pathologie, les molécules étudiées et leur mécanisme d’action, ainsi que la configuration de l’étude) et son design\nLister les données qui devront être collectées pour répondre à la question de l’étude\nCréer le Dictionnaire des Données associé\nDéfinir les tests de cohérence\nCréer un e-CRF (simplifié) et saisir des données\nUtiliser R pour manipuler et vérifier la qualité des données\nSelon le temps disponible : visualisation de données avec R et génération de rapports automatisés avec Quarto",
+    "crumbs": [
+      "Contenu du cours"
+    ]
+  },
+  {
+    "objectID": "pages/1_intro.html",
+    "href": "pages/1_intro.html",
+    "title": "1  Lecture de l’étude",
+    "section": "",
+    "text": "1.1 Objectifs\nPour ce cours, nous nous baserons sur une étude menée de 2008 à 2022 par Novartis sur le cancer du sein : Chemotherapy and Lapatinib or Trastuzumab in Treating Women With HER2/​Neu-Positive Metastatic Breast Cancer\nLien vers le Dictionnaire des Données",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Lecture de l'étude</span>"
+    ]
+  },
+  {
+    "objectID": "pages/1_intro.html#objectifs",
+    "href": "pages/1_intro.html#objectifs",
+    "title": "1  Lecture de l’étude",
+    "section": "",
+    "text": "Lire le résumé de l’étude\nDéfinir les termes suivants : HER2, Lapatinib, Trastuzumab, Taxanes et définir les mécanismes d’actions\nCommenter le design de l’étude\nLister les données qui seront à collecter pour répondre à cette étude",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Lecture de l'étude</span>"
+    ]
+  }
+]
