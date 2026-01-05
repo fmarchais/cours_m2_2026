@@ -12,4 +12,22 @@ Pour ce cours, nous nous baserons sur une étude menée de 2008 à 2022 par Nova
 
 -   Lister les données qui seront à collecter pour répondre à cette étude
 
+# Dictionnaire des données
+
+Un *Dictionnaire Des Données* (ou *DDD*) est un fichier contenant les *métadonnées* d'un jeu de données. Il permet de stocker des informations sur les variables présentes : leur nom, leur type, leur contenu, l'unité utilisée, etc...
+
+C'est un document important car c'est lui qui définit les données qui seront collectées. Il évite aussi les ambiguïtés et les incompréhension. En cas de doute, tout le monde peut s'y reporter. Dans le cadre d'études multicentriques, il permet également d'harmoniser les pratiques (scores, échelles ou formulations utilisées).
+
+Le DDD n'est pas un document obligatoire, mais il est indispensable pour la qualité et la traçabilité des données. Même s'il n'est pas nommé expréssement dans la réglementation, les organismes d'audit et de certification exigent une documentation claire des données.
+
+::: callout-note
+## Source
+Source : [ICH-GCP-E6](https://ichgcp.net/storage/pdf/ICH-GCP-E6-Add-(R2).fr.pdf)
+
+
+"1.23 Documents essentiels : Documents permettant l’évaluation, individuelle et collective, du déroulement d’une étude et de la qualité des données produites"
+:::
+
+
+
 [Lien vers le Dictionnaire des Données](https://docs.google.com/spreadsheets/d/1riBgB6wtcMm-kOjnv1WlvoS9bkD82P5wmaUeWeR7ccM/edit?gid=0#gid=0)
